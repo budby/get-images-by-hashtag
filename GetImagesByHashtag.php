@@ -1,12 +1,13 @@
 <?php
 /**
- * @author Budnitsky Dmitry (dmitry.budnitski@gmail.com)
+ * @author Budnitsky Dmitry 
+ * @email dmitry.budnitski@gmail.com
  * @version 0.1 (beta)
  */
 
 require('libs/TwitterAPIExchange.php');
 
-class imagesClass
+class GetImagesByHashtag
 {	
 	
 	/* Instagram */
